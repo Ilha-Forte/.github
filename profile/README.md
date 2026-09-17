@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/ilhaforte-logo.svg" height="56" alt="Ilha Forte" />
+  <img src="./assets/ilhaforte-logo-light@4x - Copia.png" height="56" alt="Ilha Forte" />
   &nbsp;&nbsp;&nbsp;
   <img src="./assets/ewz-capital-logo.svg" height="48" alt="EWZ Capital" />
 </p>
