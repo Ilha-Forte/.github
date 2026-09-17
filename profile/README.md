@@ -1,7 +1,7 @@
 <p align="center">
   <img src="./assets/ilhaforte-logo-light@4x - Copia.png" height="56" alt="Ilha Forte" />
   &nbsp;&nbsp;&nbsp;
-  <img src="./assets/ewz-capital-logo.svg" height="48" alt="EWZ Capital" />
+  <img src="./assets/logo-horizontal-v3-claro.png" height="48" alt="EWZ Capital" />
 </p>
 
 <h1 align="center">Ilha Forte · EWZ Capital</h1>
